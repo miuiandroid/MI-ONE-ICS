@@ -89,6 +89,7 @@
   <string name="search_label">Searching notes...</string>
   <string name="search_setting_description">Search for text within notes</string>
   <string name="set_remind_time_message">Set reminder</string>
+  <string name="select_text">Select text</string>
   <string name="success_sdcard_export">Export successful</string>
   <string name="success_sync_account">Sync successful with account %1$s</string>
   <string name="sync_progress_init_list">Getting remote note list...</string>
